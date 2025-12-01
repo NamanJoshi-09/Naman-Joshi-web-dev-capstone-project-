@@ -49,6 +49,9 @@ No frameworks or libraries required.
 📷 Preview
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57157b53-ca41-4df7-94ff-81459b8e0160" />
 
+Loom link - 
+https://www.loom.com/share/d4aebbb83ed74d90bb543a6d35e5ce79
+
 
 👤 Author
 Made for developers learning front-end fundamentals.
